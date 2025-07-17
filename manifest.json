@@ -11,6 +11,6 @@
         "*://*.discord.com/*"
     ],
     "externally_connectable": {
-        "matches": ["*://localhost/*", "*://disboxapp.github.io/*"]
+        "matches": ["*://localhost/*", "*://disboxapp.github.io/*", "*://rushiaismywaifu.github.io/web/*"]
     }
 }
